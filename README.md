@@ -7,7 +7,7 @@ This is a solution to the Odin's Project's to-do list [assignment](https://www.t
 
 ## Live project demo
 
-:point_right: https://spghtti.github.io/doer/ :point_left:
+:point_right: https://asset-capital-decay.github.io/doer/ :point_left:
 
 ## Built With
 
